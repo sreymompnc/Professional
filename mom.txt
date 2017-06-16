@@ -1,2 +1,6 @@
-Today is Wednesday
-I use this file for test about revert command line
+
+I also working one mom.txt.
+
+I edit text.
+How conflic file.
+
